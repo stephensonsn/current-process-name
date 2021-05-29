@@ -1,7 +1,7 @@
 # Current Process Name For Progress Open Edge (API Windows)
 This Program get process name current in windows 
 
-- Support online in Windows :/ 
+- Support only Windows :/ 
 - Test sucess in Microsoft Windows 10 Pro(x64) - 10.0.19041
 - Progress Version 11.3
 
